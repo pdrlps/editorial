@@ -378,7 +378,7 @@ To simplify this model, we will focus on loading unique identifiers for each dat
 More important than just importing data, we need to establish new relationship. Hence, data will be loaded from our own "dependency graph". This graph can take many shapes and distinct structures. The following data-loading map relates the data from the multiple sources being integrated, which will result in a new semantic network in the proteomics knowledge base.
 
 * **HGNC** (starting seed, loaded from file, *CSV*)
-    * **UniProt** (matches from UniProt query, *XML*)
+    * **UniProt** (matches from UniProt query, *SQL*)
         * **MeSH** (from published mapping, *SQL*)
         * **InterPro** (from individual UniProt entries, *XML*)
     * **OMIM** (from OMIM genemap, *SQL*)
@@ -447,19 +447,21 @@ According to the the Proteomics Knowledge Base graph, UniProt entries will be ob
 	* `Order`: 2 *(higher than HGNC)*
 	* `Extends`: Concept HGNC *(the dependency)*
 	* `Method`: cache *(copy everything)*
-	* `Publisher`: CSV
-	* `Endpoint`: http://www.uniprot.org/uniprot/?query=gene%3a#replace#+AND+taxonomy%3a%22Homo+sapiens+%5b9606%5d%22+AND+reviewed%3ayes+AND+active%3ayes&format=tab&columns=id,entry%20name,reviewed,protein%20names,genes,organism,length *(note the #replace#, it will be iteratively replaced by each HGNC item identifier)*
-	* `CSV Starting Line`: 1 *(has headers)*
+    * `Publisher`: SQL
+    * `Host`: biodatacenter.ieeta.pt:8314
+    * `Database`: hummer
+    * `Login/Password`: tutorial / coeus
+    * `Query`: SELECT uniprot, name FROM uniprot WHERE hgnc = '#replace#'; *(note the #replace#)*
 
 ##### Selectors
 
 For UniProt data, we will extract the identifier and the protein name.
 
 * Id
-	* `Query`: 0 *(column number 0)*
+	* `Query`: uniprot *(the SQL SELECT column name)*
 	* `Property`: dc:identifier
 * Name
-	* `Query`: 3 *(column number 3)*
+	* `Query`: name
 	* `Property`: dc:title
 
 
@@ -582,7 +584,7 @@ With the knowledge base built, COEUS provides multiple methods to access the agg
         ?uniprot dc:identifier ?id
     }
 
-## List connection graph for BRCA2
+### List connection graph for BRCA2
 
     PREFIX coeus: <http://bioinformatics.ua.pt/coeus/resource/>
     PREFIX dc: <http://purl.org/dc/elements/1.1/>
