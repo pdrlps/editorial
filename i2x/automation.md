@@ -1,4 +1,0 @@
-# Automation
-
-Automating data integration 
-

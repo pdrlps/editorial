@@ -12,6 +12,7 @@ Draft writing, with the iPad Editorial app and on the Mac with Sublime or iA Wri
 
 ## Latest
 
+* finished i2x paper draft content
 * reorganised and moved content
 * research/coeus_tutorial: workshop content for COEUS tutorial
 
