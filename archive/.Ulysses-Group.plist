@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>childOrder</key>
+	<array>
+		<string>blog</string>
+		<string>i2x</string>
+		<string>research</string>
+	</array>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>userIconName</key>
+	<string>Box</string>
+</dict>
+</plist>

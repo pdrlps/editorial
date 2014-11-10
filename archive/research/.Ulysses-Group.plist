@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>childOrder</key>
+	<array>
+		<string>jamia</string>
+		<string>swat4ls</string>
+	</array>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>cloudthinking_d1.2.md</string>
+		</array>
+		<array>
+			<string>coeus_tutorial.md</string>
+		</array>
+		<array>
+			<string>coeus_tutorial_outline.md</string>
+		</array>
+		<array>
+			<string>research_webae_soa.md</string>
+		</array>
+		<array>
+			<string>swat4ls_coeus.md</string>
+		</array>
+		<array>
+			<string>swat4ls_i2x.md</string>
+		</array>
+		<array>
+			<string>h2020.md</string>
+		</array>
+	</array>
+</dict>
+</plist>

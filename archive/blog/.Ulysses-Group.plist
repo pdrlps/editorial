@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>driving_the_future.md</string>
+		</array>
+		<array>
+			<string>fillingthevoid.md</string>
+		</array>
+		<array>
+			<string>mac.md</string>
+		</array>
+		<array>
+			<string>motivationdoingscience.md</string>
+		</array>
+		<array>
+			<string>patterns.md</string>
+		</array>
+		<array>
+			<string>thinlineoftrust.md</string>
+		</array>
+		<array>
+			<string>translatingresearch.md</string>
+		</array>
+		<array>
+			<string>writing.md</string>
+		</array>
+	</array>
+</dict>
+</plist>

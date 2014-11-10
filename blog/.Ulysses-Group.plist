@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>automation.md</string>
+		</array>
+		<array>
+			<string>hero.md</string>
+		</array>
+		<array>
+			<string>onfatherhood.md</string>
+		</array>
+		<array>
+			<string>travelingwithoutmoving.md</string>
+		</array>
+		<array>
+			<string>villain.md</string>
+		</array>
+		<array>
+			<string>What are you looking for.md</string>
+		</array>
+	</array>
+	<key>userIconName</key>
+	<string>Notes</string>
+</dict>
+</plist>
