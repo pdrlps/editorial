@@ -89,7 +89,6 @@
 **To do**
 
 * Switch codebase to support Jetty’s autodeployment instead of Apache Tomcat.
-* 
 
 ### Marketing
 
