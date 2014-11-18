@@ -4,20 +4,12 @@
 <dict>
 	<key>childOrder</key>
 	<array>
-		<string>jamia</string>
+		<string>Heroes &amp; Villains</string>
+		<string>Parenthood</string>
 	</array>
 	<key>createMarkedFile</key>
 	<false/>
-	<key>sheetClusters</key>
-	<array>
-		<array>
-			<string>linkedregistries.md</string>
-		</array>
-		<array>
-			<string>omicsis.md</string>
-		</array>
-	</array>
 	<key>userIconName</key>
-	<string>Gear</string>
+	<string>Notes</string>
 </dict>
 </plist>

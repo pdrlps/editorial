@@ -1,5 +1,14 @@
 # Introduction
 
-- This review provides an overview of the different attempts at…
-- there’s a lack of well-established solutions for…
-- if future projects are consistent with these…
+The widespread collection of patient-level data represents a critical step towards the realization of personalised medicine. These data stem from primary care centres, hospital information systems, clinical trials’ cohorts and administrative platforms. Moreover, it withholds a huge potential that goes beyond daily clinical care.
+Yet, along with the miscellaneous opportunities to explore patient-level data, this unparalleled growth of patients’ digital metadata brings several challenges. Data size, lack of open access, heterogeneity or the use of primitive technologies are some of the issues researchers face when dealing with patient-level data. In contrast, exploring the potential behind these data will lead to the discovery of new knowledge, essential to improve the current clinical narrative.
+Although patient-level data from public institutions, such as hospitals or regional/national adminsitration centres, should be easier to access, it is generally locked under primitive technological implementations. This results in closed data silos that hinder scientific and technological evolution. Several large-scale projects already try to commoditize access to these data, wether through policies or technical standards for data exchanges.
+Pharmaceutical companies are also responsible for a big chunk of patient-level data. Clinical trials’ cohorts generate comprehensive patient datasets whose value for personalised medicine research is immeasurable. Despit this, most of pharmaceutical data are private. 
+It’s important to distinguish between private companies’ data, which is the basis for internal research and development for new drugs an treatments, from public research datasets, fundamental to advance general scientific research. Although pharmaceutical companies are entitled to keep their results private, policies should be put in place to foster the sharing of clinically relevant results into the public domain.
+Dealing with this heterogeneous mixture of private and public patient-level data, tools, standards and projects is in itself a complex research and development challenge. Ultimately, the entropy in this ecosystem is delaying what should be a swift evolution. Hence, we need to evaluate past and ongoing initiatives to better assess and plan the personalised medicine research and development roadmap for the upcoming years. 
+For this matter we established an analysis framework to evaluate the outcomes of existing initiatives, identifying current challenges and uncovering new opportunities. This framework is based on four key pillars: control, sustainability, technology and science. We assess several components in each of these areas, generating a rather comprehensive study:
+* the **control** section focuses on data ownership and access;
+* the **sustainability** topics cover the long-term perspectives for each asset;
+* on **technology** we assess the technical outcomes for each asset, where existing;
+* at the **science** level we identify the projects’ research areas and their key scientifc outomces.
+We present this comprehensive review targeting three key objectives. These were to (1) identify the best initiatives dealing with patient-level data, (2) inspect and study their different features and (3) evaluate tackled challenges and open opportunities.
