@@ -7,7 +7,19 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>outline.md</string>
+			<string>Outline.md</string>
+		</array>
+		<array>
+			<string>Projects.md</string>
+		</array>
+		<array>
+			<string>Publications.md</string>
+		</array>
+		<array>
+			<string>Ideas.md</string>
+		</array>
+		<array>
+			<string>documentation.md</string>
 		</array>
 	</array>
 	<key>userIconName</key>

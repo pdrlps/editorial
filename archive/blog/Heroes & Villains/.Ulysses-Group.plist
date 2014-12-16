@@ -7,7 +7,7 @@
 		<key>counterIdentifier</key>
 		<string>words</string>
 		<key>targetResult</key>
-		<integer>1500</integer>
+		<integer>2000</integer>
 		<key>type</key>
 		<string>close_to</string>
 	</dict>
@@ -16,8 +16,10 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>onfatherhood.md</string>
+			<string>Heroes-Villains.md</string>
 		</array>
 	</array>
+	<key>userIconName</key>
+	<string>Outbox</string>
 </dict>
 </plist>

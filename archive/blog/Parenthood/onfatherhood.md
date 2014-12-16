@@ -1,0 +1,26 @@
+# On Fatherhood
+
+I’ve been planning to write this text for so long. I really want it to be perfect, which probably reflects my atittude towards parenting. Maybe this is due to my own personal history or to my paradigmatic ideas about life or maybe something else. It doesn’t matter, the feeling is the same: I was born to do this, I was born to be a father. 
+Alas, the perfect writing opportunity and the perfect text will never come, and I’ll never mangle all the ideas I have in any coherent form. In a sense, this is a great metaphor for the latest year: trying to cope with everything in a sane daily life within the insanity of being a first-time parent. So, I decided to forget about copy and structure: I’ll just dump everything as it comes along.
+
+**The always upbeat soundtrack of your life**
+
+In the first few months it’s like there’s an upbeat soundtrack playing constantly in your everyday. Like in a montage from a comedy movie. Everything is just… happyness. This was particularly true in the first month. Especially until the first major problem with my son (7 days in the hospital). You know that feeling that everything is as it should be? “Everything in its right place”. You wake up with a gigantic smile on your face, even after sleeping for only a few hours. You see everyone under a new light, you face every challenge with renewed energy… it’s awesome. I admit it. This “upbeat” haze is clearer now. But it’s still there when I’m careful enough to look for it, ready to put a smile on my face.
+
+**Fatherhood vs. Motherhood**
+
+We took some preparing courses in the months before our due date. It’s great to know beforehand what’s about to come, specially what can happen in the delivery room. As always, my *plan ahead* and *be prepared* motto come to mind. It was in these short courses, (practical with exercices, theoretical, with nurses, with psychologists…) and in the actual birth date, that I gain a whole new level of respect for my wife. And for all women in general. Giving birth to a human being is incredible. The months have gone by but I’m still amazed on how wonderful we are and how incredible it is to carry a child and bringing him/her to this world. It is stunning. And women play **the** key role in everything. 
+
+No matter how hard men try, women will always have a bigger responsibility. And this responsibility results in a dreadful load of challenges. The only thing men can do is, literally, to try and make the mums-to-be as confortable as possible. During pregnancy and especially during labour. And it’s not that men aren’t capable of taking care of newborns by themselves, it’s just the simple fact that women are designed that way. They will suffer more and, consequently, have to endure much more than men. Whether we’re talking about all those hours in labour or actual work, women have to deal with greater challenges. And they have my utmost respect.
+
+**Do it. No, seriously, do it!**
+
+Don’t think someday you’ll be more prepared, that you cannot financially cope with a child, that the timing is not right because of some family restriction, that you still have plenty stuff to experience by yourself... Once you hold your newborn child in your arms, I'm pretty sure you will rise to the challenges ahead and just wonder why you haven't done it sooner.
+
+Of course there are difficult times ahead. Raising a baby in this day and age is not trivial. A newborn’s financial weight is huge. There are lots of initial expenses, from the baby’s room to the trolley. Then there are the fixed expenses: day care, diapers, paeditrician appointments. And at last all the variable costs… that cute outfit, a toy for when he’s 3 months, another toy for when’s 6 months, more toys when he’s 9 months… It’s a neverending nightmare of expenses. Yet, and I must reinforce this, it is totally worth it. You may fall asleep thinking about how you’ll manage to pay everything this month, but when you wake up and see the most innocent and real smile one your baby’s face when he sees you… it all goes away…
+
+Then there’s all the logistics changes. I didn’t imagine I had to pack so much stuff just for a weekend away. Nor did I ever thought that I would be late for almost everything for the past 6 months: there’s always another diaper change or something we forgot. And in spit of being just a small baby, there’s so much stuff to take care of. We can’t simply wake up, eat breakfast and leave to work. There are days where we leave home almost 2 hours after waking up. Fortunately, we’re now, finally, finding our own pace.
+
+And at last, the daily life changes. In our particular case, the grandparents are far away. I think there are some situations where it would be so much easier if they were right around the corner. Having to cook dinner after a tiring day at work. Being in meetings outside the daily work hours. Going out for drinks or dinner with friends. Going for a run or to the gymn. These (small) events, meaningless before having our son, now need careful planning.
+
+Despite having almost 9 months to prepare myself for the incoming changes, I couldn't foresee how much things would really change in a single day. Or better, in a matter of moments, from getting to the hospital to holding your newborn in your arms. The world changes in an instant. And trust me, it is awesome.

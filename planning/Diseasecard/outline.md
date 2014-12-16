@@ -2,7 +2,7 @@
 
 This document is organised as follows:
 
-* **Workplan**: development planning for the upcoming months, with  basic details and priorities
-* **Projects**: platform use in projects
+* **Projects**: Diseasecard’s use in the group’s projects
 * **Publications**: future publication titles, abstracts, notes
 * **Ideas**: new features and guidelines for the future
+* **Documentation**: full platform documentation and development guidelines

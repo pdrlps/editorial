@@ -1,5 +1,10 @@
 # Ideas
 
+## BioPortal Integration & Interoperability
+
+BioPortal contains the majority of ontologies associated with the life sciences and clinical fields. COEUS should include streamlined features to enhance how these ontologies are imported into each seed. BioPortal includes a REST API that can be queried to retrieve ontology metadata (required for import).
+This should be available in the configuration wizard, as a new option in the prefixes loading step.
+
 ## Data Visualization
 
 Add default data visualization features to access data stored in each seed.
