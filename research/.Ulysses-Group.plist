@@ -5,6 +5,7 @@
 	<key>childOrder</key>
 	<array>
 		<string>jamia</string>
+		<string>cisti</string>
 	</array>
 	<key>createMarkedFile</key>
 	<false/>
