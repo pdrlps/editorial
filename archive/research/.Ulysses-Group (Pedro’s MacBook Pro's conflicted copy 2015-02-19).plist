@@ -2,27 +2,31 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>childOrder</key>
+	<array>
+		<string>cisti</string>
+		<string>jamia</string>
+		<string>swat4ls</string>
+	</array>
 	<key>createMarkedFile</key>
 	<false/>
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>Outline.md</string>
+			<string>coeus_tutorial.md</string>
 		</array>
 		<array>
-			<string>Projects.md</string>
+			<string>coeus_tutorial_outline.md</string>
 		</array>
 		<array>
-			<string>Publications.md</string>
+			<string>research_webae_soa.md</string>
 		</array>
 		<array>
-			<string>Ideas.md</string>
+			<string>swat4ls_coeus.md</string>
 		</array>
 		<array>
-			<string>documentation.md</string>
+			<string>swat4ls_i2x.md</string>
 		</array>
 	</array>
-	<key>userIconName</key>
-	<string>Calendar2</string>
 </dict>
 </plist>

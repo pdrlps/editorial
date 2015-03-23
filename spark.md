@@ -1,3 +1,9 @@
+# Publish
+
+## Writing
+
+Another post about writing, this covering the difference between publishing anywhere or writing just for the numbers.
+
 # Ideas
 
 Future ideas file: the future starts here!…
@@ -28,12 +34,16 @@ BucketList app for iOS
 * AARII: Advanced Automated Real-time Integration and Interoperability
 * AARTII: Advanced Automated Real-time Integration and Interoperability
 
-[http://arii.io][1] is available
+[http://arii.io][1] is available (is ARiiP, ariip.com)
 
 **New features**
 * Presets
 	* public/private preconfigured agents, integrations and templates
 	* 1st stage: load on webpage, prefill UI
 	* 2nd stage: new indendependent UI to load presets
+
+# Posts
+
+Time is always moving
 
 [1]:	http://arii.io "arii.io"

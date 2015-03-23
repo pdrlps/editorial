@@ -7,10 +7,16 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>Outline.md</string>
+			<string>Pushing reset on life.md</string>
+		</array>
+		<array>
+			<string>ResearchImpact.md</string>
+		</array>
+		<array>
+			<string>Podcast.md</string>
 		</array>
 	</array>
 	<key>userIconName</key>
-	<string>Calendar2</string>
+	<string>FilePersonal2</string>
 </dict>
 </plist>

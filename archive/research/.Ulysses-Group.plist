@@ -4,8 +4,9 @@
 <dict>
 	<key>childOrder</key>
 	<array>
-		<string>jamia</string>
 		<string>swat4ls</string>
+		<string>cisti</string>
+		<string>jamia</string>
 	</array>
 	<key>createMarkedFile</key>
 	<false/>
@@ -34,6 +35,15 @@
 		</array>
 		<array>
 			<string>linkedregistries.md</string>
+		</array>
+		<array>
+			<string>omicsis.md</string>
+		</array>
+		<array>
+			<string>fctproposal.md</string>
+		</array>
+		<array>
+			<string>Towards a knowledge federation of linked patient registries.md</string>
 		</array>
 	</array>
 </dict>

@@ -5,9 +5,10 @@
 	<key>childOrder</key>
 	<array>
 		<string>archive</string>
-		<string>blog</string>
 		<string>research</string>
 		<string>planning</string>
+		<string>blog</string>
+		<string>publishing</string>
 		<string>infinity</string>
 	</array>
 	<key>createMarkedFile</key>

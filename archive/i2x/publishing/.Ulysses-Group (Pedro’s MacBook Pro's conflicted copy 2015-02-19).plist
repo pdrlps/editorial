@@ -7,22 +7,26 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>Outline.md</string>
+			<string>discussion.md</string>
 		</array>
 		<array>
-			<string>Projects.md</string>
+			<string>implementation.md</string>
 		</array>
 		<array>
-			<string>Publications.md</string>
+			<string>abstract.md</string>
 		</array>
 		<array>
-			<string>Ideas.md</string>
+			<string>results.md</string>
 		</array>
 		<array>
-			<string>documentation.md</string>
+			<string>background.md</string>
+		</array>
+		<array>
+			<string>outline.md</string>
+		</array>
+		<array>
+			<string>conclusions.md</string>
 		</array>
 	</array>
-	<key>userIconName</key>
-	<string>Calendar2</string>
 </dict>
 </plist>

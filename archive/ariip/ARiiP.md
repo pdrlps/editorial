@@ -28,14 +28,14 @@ podem ser otimizados com recursos a um produto que consiga fazer a monitorizaç�
 A nossa solução consiste num produto inovador centrado numa plataforma computacional de automatização de processos. O cliente poderá configurar a solução ARiiP para controlar a integração de dados e a interoperabilidade entre serviços a vários níveis. O ênfase vai para três áreas distintas: (1) a instalação de agentes de monitorização de conteúdo; (2) a execução de tarefas baseadas em eventos; (3) a distribuição de dados para os mais variados serviços heterogéneos. Importa salientar ainda que esta solução poderá ser ligada a qualquer infraestrutura informática existente nas empresas (ou serviço web em utilização), e que a gestão do sistema pode também ser totalmente controlada pela empresa cliente (operando a plataforma on site).
 
 1. monitorização de conteúdo (integração activa)
-- possibilidade de configurar agentes online ou locais para monitorizar periodicamente o conteúdo de múltiplas fontes de dados (bases de dados, ficheiros, feeds…)
-- agentes configurados para extrair dados e detetar alterações no conteúdo monitorado
-- deteção de dados novos inicia operação de integração
+2. possibilidade de configurar agentes online ou locais para monitorizar periodicamente o conteúdo de múltiplas fontes de dados (bases de dados, ficheiros, feeds…)
+3. agentes configurados para extrair dados e detetar alterações no conteúdo monitorado
+4. deteção de dados novos inicia operação de integração
 2. execução baseada em eventos (integração passiva)
-- cliente pode alterar o seu software para enviar mensagem com dados para integração
-- plataforma inicia integração sempre que recebe novas mensagens com dados
+6. cliente pode alterar o seu software para enviar mensagem com dados para integração
+7. plataforma inicia integração sempre que recebe novas mensagens com dados
 3. distribuição de dados
-- a distribuição dos dados, configurada pelo cliente, é baseada em modelos
+9. a distribuição dos dados, configurada pelo cliente, é baseada em modelos
 	- modelos disponíveis para inserção de dados em base de dados, envio de emails, escrita de ficheiros, execução de serviços (locais ou web)
 	- modelos pode ser configurados com múltiplas variáveis
 	- modelos permitem a transformação de dados
@@ -53,12 +53,12 @@ A crescente utilização de clientes móveis também será alvo de desenvolvimen
 
 Os clientes deste produto são:
  - Empresas (das mais variadas áreas) que utilizem ferramentas de IT nos seus processos organizacionais;
- - 
+ \- 
 
 Além dos tradicionais clientes, este produto pode ser vendido como ferramenta adicional para serviços já existentes. Assim, prevemos parcerias com:
  - Software de gestão de clientes, encomendas, logística (PHC, Primavera…)
 - Plataformas cloud (PT/MEO Cloud, Dropbox…)
-- 
+\- 
 
 ## Mercado
 (Como é o Mercado? Qual é? Qual o tamanho? Concorrência e como se comporta? Benchmark)

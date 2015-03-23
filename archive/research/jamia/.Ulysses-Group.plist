@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>countingGoal</key>
+	<dict>
+		<key>counterIdentifier</key>
+		<string>words</string>
+		<key>targetResult</key>
+		<integer>4000</integer>
+		<key>type</key>
+		<string>at_most</string>
+	</dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>outline_notes.md</string>
+		</array>
+		<array>
+			<string>Abstract.md</string>
+		</array>
+		<array>
+			<string>Introduction.md</string>
+		</array>
+		<array>
+			<string>Methods.md</string>
+		</array>
+		<array>
+			<string>Results.md</string>
+		</array>
+		<array>
+			<string>Discussion.md</string>
+		</array>
+		<array>
+			<string>Conclusion.md</string>
+		</array>
+		<array>
+			<string>Impact.md</string>
+		</array>
+	</array>
+</dict>
+</plist>

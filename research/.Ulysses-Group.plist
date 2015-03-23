@@ -4,9 +4,17 @@
 <dict>
 	<key>childOrder</key>
 	<array>
-		<string>jamia</string>
-		<string>cisti</string>
+		<string>soca</string>
 	</array>
+	<key>countingGoal</key>
+	<dict>
+		<key>counterIdentifier</key>
+		<string>words</string>
+		<key>targetResult</key>
+		<integer>500</integer>
+		<key>type</key>
+		<string>at_least</string>
+	</dict>
 	<key>createMarkedFile</key>
 	<false/>
 	<key>sheetClusters</key>
@@ -14,11 +22,8 @@
 		<array>
 			<string>linkedregistries.md</string>
 		</array>
-		<array>
-			<string>omicsis.md</string>
-		</array>
 	</array>
 	<key>userIconName</key>
-	<string>Bookmarks</string>
+	<string>Atomic</string>
 </dict>
 </plist>

@@ -4,14 +4,14 @@
 <dict>
 	<key>childOrder</key>
 	<array>
+		<string>archive</string>
 		<string>blog</string>
-		<string>i2x</string>
+		<string>infinity</string>
+		<string>planning</string>
+		<string>publishing</string>
 		<string>research</string>
-		<string>ariip</string>
 	</array>
 	<key>createMarkedFile</key>
 	<false/>
-	<key>userIconName</key>
-	<string>Box</string>
 </dict>
 </plist>

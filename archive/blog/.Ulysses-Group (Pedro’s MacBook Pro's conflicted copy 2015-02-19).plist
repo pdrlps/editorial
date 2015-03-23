@@ -12,9 +12,6 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>driving_the_future.md</string>
-		</array>
-		<array>
 			<string>fillingthevoid.md</string>
 		</array>
 		<array>
@@ -34,18 +31,6 @@
 		</array>
 		<array>
 			<string>writing.md</string>
-		</array>
-		<array>
-			<string>travelingwithoutmoving.md</string>
-		</array>
-		<array>
-			<string>What are you looking for.md</string>
-		</array>
-		<array>
-			<string>christmas.md</string>
-		</array>
-		<array>
-			<string>Fear.md</string>
 		</array>
 	</array>
 </dict>

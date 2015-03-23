@@ -7,35 +7,22 @@
 		<key>counterIdentifier</key>
 		<string>words</string>
 		<key>targetResult</key>
-		<integer>4000</integer>
+		<integer>3000</integer>
 		<key>type</key>
-		<string>at_most</string>
+		<string>close_to</string>
 	</dict>
 	<key>createMarkedFile</key>
 	<false/>
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>outline_notes.md</string>
+			<string>abstract.md</string>
 		</array>
 		<array>
-			<string>Abstract.md</string>
-		</array>
-		<array>
-			<string>Introduction.md</string>
-		</array>
-		<array>
-			<string>Methods.md</string>
-		</array>
-		<array>
-			<string>Results.md</string>
-		</array>
-		<array>
-			<string>Discussion.md</string>
-		</array>
-		<array>
-			<string>Conclusion.md</string>
+			<string>outline.md</string>
 		</array>
 	</array>
+	<key>userIconName</key>
+	<string>Next</string>
 </dict>
 </plist>
