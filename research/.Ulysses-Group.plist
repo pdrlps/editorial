@@ -6,15 +6,6 @@
 	<array>
 		<string>soca</string>
 	</array>
-	<key>countingGoal</key>
-	<dict>
-		<key>counterIdentifier</key>
-		<string>words</string>
-		<key>targetResult</key>
-		<integer>500</integer>
-		<key>type</key>
-		<string>at_least</string>
-	</dict>
 	<key>createMarkedFile</key>
 	<false/>
 	<key>sheetClusters</key>

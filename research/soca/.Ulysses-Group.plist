@@ -16,10 +16,22 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>abstract.md</string>
+			<string>Abstract.md</string>
 		</array>
 		<array>
-			<string>outline.md</string>
+			<string>introduction.md</string>
+		</array>
+		<array>
+			<string>background.md</string>
+		</array>
+		<array>
+			<string>methods.md</string>
+		</array>
+		<array>
+			<string>results &amp; discussion.md</string>
+		</array>
+		<array>
+			<string>conclusion.md</string>
 		</array>
 	</array>
 	<key>userIconName</key>
