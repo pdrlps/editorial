@@ -7,7 +7,10 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>Outline.md</string>
+			<string>Ideas.md</string>
+		</array>
+		<array>
+			<string>Adaptive Polling for Real-time Content Integration.md</string>
 		</array>
 	</array>
 	<key>userIconName</key>

@@ -23,5 +23,15 @@
 * **redis.client.jedis**: Jedis code (Redis client).
 
 
+## Update/Rebuild
+
+### Tasks
+
+1. Check main knowledge base configuration file (dc4\_setup.rdf) for data source updates.
+2. Load OMIM data at Level 0 for * pt.ua.bioinformatics.coeus.common.Run*, which loads *pt.ua.bioinformatics.coeus.api.plugins.OMIMPlugin*
+3. Process main data source nodes by levels (1, 2, 3, 4…) watching out for dependencies. This builds the knowledge base.
+4. Load disease list into browsing cache * pt.ua.bioinformatics.diseasecard.services.Browsier*
+4. Load knowledge network into cache for each disease (OMIM based) and each gene (HGNC based) * pt.ua.bioinformatics.diseasecard.services.Cashier*
+5. Index full-text content for Solr-based search * pt.ua.bioinformatics.diseasecard.services.Indexer*
 
 [1]:	http://bioinformatics.ua.pt/coeus/hasConcept "http://bioinformatics.ua.pt/coeus/hasConcept"

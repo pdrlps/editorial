@@ -10,6 +10,9 @@
 			<string>Outline.md</string>
 		</array>
 		<array>
+			<string>Workplan.md</string>
+		</array>
+		<array>
 			<string>Projects.md</string>
 		</array>
 		<array>
@@ -20,6 +23,9 @@
 		</array>
 		<array>
 			<string>documentation.md</string>
+		</array>
+		<array>
+			<string>Summaries.md</string>
 		</array>
 	</array>
 	<key>userIconName</key>

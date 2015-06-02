@@ -5,13 +5,13 @@ Draft writing, with the iPad Editorial app and on the Mac with Ulysses.
 
 ## Structure
 
-* archive (the old stuff)
-* blog (initial drafts for blog posts)
-* research (science-y stuff, for publications)
-* planning  (upcoming stuff)
+* **archive**: the old stuff
+* **infinity**: everything and anything else
+* **publishing**: initial drafts for blog posts
 
 ## Latest
 
+* updated structure for temp version
 * added planning section
 * added cloud thinking docs
 * reorganised i2x docs and publishing

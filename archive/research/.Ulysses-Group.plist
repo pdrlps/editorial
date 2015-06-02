@@ -4,6 +4,10 @@
 <dict>
 	<key>childOrder</key>
 	<array>
+		<string>COEUS</string>
+		<string>Diseasecard</string>
+		<string>i2x</string>
+		<string>soca</string>
 		<string>swat4ls</string>
 		<string>cisti</string>
 		<string>jamia</string>
@@ -12,6 +16,9 @@
 	<false/>
 	<key>sheetClusters</key>
 	<array>
+		<array>
+			<string>ResearchImpact.md</string>
+		</array>
 		<array>
 			<string>cloudthinking_d1.2.md</string>
 		</array>

@@ -1,0 +1,10 @@
+
+# introduction
+
+
+The quantity and quality of data and services available to any research field continues to grow at an accelerated pace. Much of this growth is due to the improved access to cloud-based technologies. As the shift towards a service-oriented computing paradigm becomes apparent, gathering and publishing data online is now a commodity.
+This evolution means that publishing or accessing data via an API or combining heterogeneous data sources are no longer challenges for integration and interoperability. The major issue in scientific data integration regards the researchers’ demand for fresh data. Whatever the software they are using or task being performed, researchers want access to a dataset that is updated in real-time, thus, representing a live vision of everything that is currently available.
+To tackle this challenge we introduce a framework, i2x, that empowers both researchers and developers with the tools to automate the integration of heterogeneous data and the interoperability between distributed services.
+Despite their quality, current solutions for scientific data integration have four major drawbacks: (1) they produce time-limited snapshots of the aggregated datasets; (2) they require manual interactions to start the integration process; (3) any additional complexity requires the creation of an ad hoc solution; and (4) they are either too complex or too simple for the problems at hand in scientific research.
+Our framework tackles these issues with a unique user interface and combination of algorithms to optimize data extraction and delivery. The implemented algorithms adopt an event-driven approach. In it, each new event triggers the integration task, initiating the data extraction, transformation and load. Events can be pushed into i2x by resources, using an open integration endpoint, or obtained via direct resources monitoring, using i2x’s intelligent agents. With the latter approach, we can configure i2x to track databases, files or services, looking for changes in content: the events.
+i2x is an open-source platform, target at researchers and developers, available online at https://bioinformatics.ua.pt/i2x/.
